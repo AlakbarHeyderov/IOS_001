@@ -11,6 +11,7 @@
 		3052287627FC975600A0CD30 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3052287527FC975600A0CD30 /* ViewController.swift */; };
 		3052287B27FC975700A0CD30 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3052287A27FC975700A0CD30 /* Assets.xcassets */; };
 		3052287E27FC975700A0CD30 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3052287C27FC975700A0CD30 /* LaunchScreen.storyboard */; };
+		309D0BD2280AD0D300567A25 /* LessonThreeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 309D0BD1280AD0D300567A25 /* LessonThreeViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		3052287A27FC975700A0CD30 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3052287D27FC975700A0CD30 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3052287F27FC975700A0CD30 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		309D0BD1280AD0D300567A25 /* LessonThreeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LessonThreeViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				3052287127FC975600A0CD30 /* AppDelegate.swift */,
 				3052287527FC975600A0CD30 /* ViewController.swift */,
+				309D0BD1280AD0D300567A25 /* LessonThreeViewController.swift */,
 				3052287A27FC975700A0CD30 /* Assets.xcassets */,
 				3052287C27FC975700A0CD30 /* LaunchScreen.storyboard */,
 				3052287F27FC975700A0CD30 /* Info.plist */,
@@ -133,6 +136,7 @@
 			files = (
 				3052287627FC975600A0CD30 /* ViewController.swift in Sources */,
 				3052287227FC975600A0CD30 /* AppDelegate.swift in Sources */,
+				309D0BD2280AD0D300567A25 /* LessonThreeViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

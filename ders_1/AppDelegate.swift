@@ -15,9 +15,9 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         window = UIWindow(frame: UIScreen.main.bounds)
-        let nw = ViewController()
-        
-        window?.rootViewController = nw
+        //let nw = ViewController()
+        let lessonThreeVC = LessonThreeViewController()
+        window?.rootViewController = lessonThreeVC
         window?.makeKeyAndVisible()
    
         // Override point for customization after application launch.
